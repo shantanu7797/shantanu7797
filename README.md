@@ -53,12 +53,12 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shantanu7797&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanu7797&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shantanu7797&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
 
 ---
@@ -75,7 +75,7 @@
 - Database optimization reducing query time by 40%
 - Implemented CI/CD pipeline with automated testing
 
-[**View Repository →**](https://github.com/YOUR-GITHUB-USERNAME/project1)
+[**View Repository →**](https://github.com/shantanu7797/project1)
 
 </td>
 <td width="50%">
@@ -86,7 +86,7 @@
 - Real-time inventory management
 - Mobile-responsive design with 95% performance score
 
-[**View Repository →**](https://github.com/YOUR-GITHUB-USERNAME/project2)
+[**View Repository →**](https://github.com/shantanu7797/project2)
 
 </td>
 </tr>
@@ -99,7 +99,7 @@
 - Container orchestration with Kubernetes
 - Real-time data processing and caching
 
-[**View Repository →**](https://github.com/YOUR-GITHUB-USERNAME/project3)
+[**View Repository →**](https://github.com/shantanu7797/project3)
 
 </td>
 <td width="50%">
@@ -110,7 +110,7 @@
 - Advanced data visualization and analytics
 - Role-based access control system
 
-[**View Repository →**](https://github.com/YOUR-GITHUB-USERNAME/project4)
+[**View Repository →**](https://github.com/shantanu7797/project4)
 
 </td>
 </tr>
@@ -142,7 +142,7 @@ I'm always interested in discussing new opportunities, collaborating on interest
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shantanu7797&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
 
 ---
