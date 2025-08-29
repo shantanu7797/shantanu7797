@@ -1,60 +1,150 @@
-# 👋 Hi, I'm Shantanu Kumar  
-💻 Software Developer | Backend & Frontend | MERN, .NET Core, Microservices  
+# Shantanu Kumar
+## Software Developer | Backend & Frontend (MERN Stack | .NET Core)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://shantanukumar.in)  
-[![Email](https://img.shields.io/badge/Email-shantanukumar7797@gmail.com-red?logo=gmail&logoColor=white)](mailto:shantanukumar7797@gmail.com)  
-[![Email](https://img.shields.io/badge/Email-dev@shantanukumar.in-red?logo=gmail&logoColor=white)](mailto:dev@shantanukumar.in)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/shantanu7797/)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/shantanu_kumar7797/) 
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shantanukumar.in)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shantanukumar7797@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shantanu7797/)
 
----
-
-## 🚀 About Me
-- 🔭 Currently working as a **Software Developer** at Culture Holidays  
-- 🌱 Skilled in **.NET Core, Node.js, MongoDB, SQL Server, MERN Stack, Next.js, Microservices**  
-- ⚡ Passionate about **scalable backend systems & full-stack solutions**  
-- 📚 Committed to **continuous learning** & adopting **best practices**  
+</div>
 
 ---
 
-## 🛠 Tech Stack
+### 👨‍💻 Professional Summary
 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) 
-![.NET Core](https://img.shields.io/badge/-.NET%20Core-05122A?style=flat&logo=dotnet) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) 
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoftsqlserver)  
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) 
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js) 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes) 
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis) 
-![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apachekafka)  
+**Software Developer** at Culture Holidays with experience in building backend systems and full-stack applications. Passionate about learning modern technologies and developing scalable solutions using microservices architecture and cloud technologies.
 
----
-
-## 📊 GitHub Stats  
-
-![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight)  
+**Core Competencies:**
+- Backend Development with .NET Core & Node.js
+- Full-Stack Development using MERN & Next.js
+- RESTful API Development & Integration
+- Database Design & Management (MongoDB, SQL Server)
+- Modern Web Technologies & Best Practices
 
 ---
 
-## 🌟 Featured Projects  
+### 🛠️ Technical Skills
 
-- [**Project 1**](https://github.com/YOUR-GITHUB-USERNAME/project1) – Backend service with .NET Core & SQL Server  
-- [**Project 2**](https://github.com/YOUR-GITHUB-USERNAME/project2) – Full-stack MERN application with authentication  
-- [**Project 3**](https://github.com/YOUR-GITHUB-USERNAME/project3) – Microservices architecture demo with Node.js & Kafka  
+#### **Backend Technologies**
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+#### **Frontend Technologies**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+#### **Databases & Storage**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+#### **DevOps & Cloud**
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
 ---
 
-## 📫 Contact  
+### 📈 GitHub Analytics
 
-- 📩 **Email 1:** [shantanukumar7797@gmail.com](mailto:shantanukumar7797@gmail.com)  
-- 📩 **Email 2:** [dev@shantanukumar.in](mailto:dev@shantanukumar.in)  
-- 🌐 **Portfolio:** [shantanukumar.in](https://shantanukumar.in)  
-- 💼 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-- 🧩 **LeetCode:** [leetcode.com/u/shantanu7797](https://leetcode.com/u/shantanu7797/)  
-- 📘 **GeeksforGeeks:** [geeksforgeeks.org/user/shantanu_kumar7797](https://www.geeksforgeeks.org/user/shantanu_kumar7797/)  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</div>
 
 ---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🏢 Enterprise Backend Service
+**Tech Stack:** .NET Core, SQL Server, Docker  
+- RESTful API with comprehensive authentication
+- Database optimization reducing query time by 40%
+- Implemented CI/CD pipeline with automated testing
+
+[**View Repository →**](https://github.com/YOUR-GITHUB-USERNAME/project1)
+
+</td>
+<td width="50%">
+
+#### 🌐 Full-Stack E-commerce Platform
+**Tech Stack:** MERN Stack, Stripe API, AWS  
+- Complete e-commerce solution with payment integration
+- Real-time inventory management
+- Mobile-responsive design with 95% performance score
+
+[**View Repository →**](https://github.com/YOUR-GITHUB-USERNAME/project2)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### ⚡ Microservices Architecture Demo
+**Tech Stack:** Node.js, Kafka, Redis, Kubernetes  
+- Event-driven microservices with message queuing
+- Container orchestration with Kubernetes
+- Real-time data processing and caching
+
+[**View Repository →**](https://github.com/YOUR-GITHUB-USERNAME/project3)
+
+</td>
+<td width="50%">
+
+#### 📱 Next.js Dashboard Application
+**Tech Stack:** Next.js, TypeScript, MongoDB  
+- Server-side rendering for optimal performance
+- Advanced data visualization and analytics
+- Role-based access control system
+
+[**View Repository →**](https://github.com/YOUR-GITHUB-USERNAME/project4)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏆 Achievements & Recognition
+
+- 💼 **Current Role:** Software Developer at Culture Holidays
+- 🎯 **Problem Solving:** Active on LeetCode and GeeksforGeeks platforms
+- 📚 **Continuous Learning:** Committed to staying updated with latest technologies
+- 🚀 **Growth Mindset:** Building expertise in modern development practices
+
+---
+
+### 📬 Let's Connect
+
+I'm always interested in discussing new opportunities, collaborating on interesting projects, or talking about technology. Feel free to reach out!
+
+<div align="center">
+
+**Primary Contact:** [shantanukumar7797@gmail.com](mailto:shantanukumar7797@gmail.com) | **Business:** [dev@shantanukumar.in](mailto:dev@shantanukumar.in)
+
+**Portfolio:** [shantanukumar.in](https://shantanukumar.in) | **LinkedIn:** [Connect with me](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</div>
+
+---
+
+*"Building robust, scalable solutions that make a difference. Always learning, always growing."*
